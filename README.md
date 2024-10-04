@@ -15,7 +15,7 @@ Adversarial training increases the robustness of machine learning models by incl
 - The dataset used is the Iris dataset, which can be loaded using the `sklearn.datasets.load_iris()` method.
 
 ## Files
-- `main.py`: Contains the code for training the RandomForest model, generating SHAP plots, creating adversarial examples using FGSM, and evaluating the model's performance on clean and adversarial test data.
+- `improved_RF-iris_Shap.py`: Contains the code for training the RandomForest model, generating SHAP plots, creating adversarial examples using FGSM, and evaluating the model's performance on clean and adversarial test data.
 
 ## Requirements
 To install the necessary dependencies, run:
